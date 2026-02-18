@@ -1,6 +1,0 @@
-/home/runner/work/Cobol-Demo/Cobol-Demo/java-services/logging-service/application-logger/src/main/java/com/contoso/logging/model/LogRecord.java
-/home/runner/work/Cobol-Demo/Cobol-Demo/java-services/logging-service/application-logger/src/main/java/com/contoso/logging/repository/LogRecordRepository.java
-/home/runner/work/Cobol-Demo/Cobol-Demo/java-services/logging-service/application-logger/src/main/java/com/contoso/logging/ApplicationLoggerService.java
-/home/runner/work/Cobol-Demo/Cobol-Demo/java-services/logging-service/application-logger/src/main/java/com/contoso/logging/service/LoggingService.java
-/home/runner/work/Cobol-Demo/Cobol-Demo/java-services/logging-service/application-logger/src/main/java/com/contoso/logging/controller/LoggingController.java
-/home/runner/work/Cobol-Demo/Cobol-Demo/java-services/logging-service/application-logger/src/main/java/com/contoso/logging/model/LogRequest.java

@@ -6,3 +6,12 @@
 *.c.l.h
 *.~lock*
 *.swp
+
+# Java build artifacts
+java-services/**/target/
+java-services/**/*.jar
+java-services/**/*.war
+java-services/**/*.ear
+java-services/**/*.class
+java-services/**/*.log
+java-services/**/*.bak

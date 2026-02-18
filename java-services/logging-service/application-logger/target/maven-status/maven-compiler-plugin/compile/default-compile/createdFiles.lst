@@ -1,6 +1,0 @@
-com/contoso/logging/repository/LogRecordRepository.class
-com/contoso/logging/service/LoggingService.class
-com/contoso/logging/ApplicationLoggerService.class
-com/contoso/logging/model/LogRecord.class
-com/contoso/logging/model/LogRequest.class
-com/contoso/logging/controller/LoggingController.class
